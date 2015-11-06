@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "650ff957-3140-4314-af81-4e3010ecff3b++9897" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "650ff957-3140-4314-af81-4e3010ecff3b++9897" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF7657A7-12FB-4A5E-A82E-7C85672964A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "650ff957-3140-4314-af81-4e3010ecff3b++9897" : "ForU\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ForU",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ForU.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/i05150713_FOrU",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "650ff957-3140-4314-af81-4e3010ecff3b++9897"
+    }
+  ]
+}
